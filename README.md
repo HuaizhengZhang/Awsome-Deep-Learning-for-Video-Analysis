@@ -1,4 +1,4 @@
-# Papers on deep learning for video analysis
+# Deep Learning for Video Analysis
 
 ## Spatiotemporal Features
 
