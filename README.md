@@ -31,9 +31,7 @@ This repo contains some video analysis research. I categorize them by myself. Yo
 
 3. Objects that Sound [[Paper]](https://arxiv.org/pdf/1712.06651)
 
-4. Learning a Text-Video Embedding from Incomplete and Heterogeneous Data [[Paper]](https://arxiv.org/pdf/1804.02516.pdf)
-
-5. Learning to Separate Object Sounds by Watching Unlabeled Video [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
+4. Learning to Separate Object Sounds by Watching Unlabeled Video [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
 
 ### Video Moment localization
 
