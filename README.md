@@ -10,7 +10,7 @@ This repo contains some video analysis research. I categorize them by myself. Yo
 
 ## Paper:
 
-### Spatiotemporal Features
+### Action recognition (Spatiotemporal Features)
 
 1. Deep Learning for Video Classification and Captioning [[Paper]](https://arxiv.org/pdf/1609.06782.pdf)
 
@@ -41,4 +41,6 @@ This repo contains some video analysis research. I categorize them by myself. Yo
 
 ### Video retrieval
 
-### Action recognition
+1. Miech, Antoine, Ivan Laptev, and Josef Sivic. "Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." arXiv preprint arXiv:1804.02516 (2018).[[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
+
+
