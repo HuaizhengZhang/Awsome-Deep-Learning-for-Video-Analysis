@@ -31,17 +31,13 @@ I find a very interesting website
 
 - AENet: Learning Deep Audio Features for Video Analysis [[Paper]](https://arxiv.org/pdf/1701.00599.pdf) [[GitHub]](https://github.com/znaoya/aenet)
 
-
 - Look, Listen and Learn [[Paper]](https://arxiv.org/pdf/1705.08168.pdf)
-
 
 - Objects that Sound [[Paper]](https://arxiv.org/pdf/1712.06651)
 
-
 - Learning to Separate Object Sounds by Watching Unlabeled Video [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
-  - Gao, Ruohan, Rogerio Feris, and Kristen Grauman. *arXiv preprint arXiv:1804.01665 (2018)*
-  
-  
+  - Gao, Ruohan, Rogerio Feris, and Kristen Grauman. *arXiv preprint arXiv:1804.01665 2018*
+   
 - Ambient Sound Provides Supervision for Visual Learning [[Paper]](http://www.eccv2016.org/files/posters/O-1B-01.pdf)
   - Owens, Andrew, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. *ECCV 2016*
   - Summary: unsupervised learning
@@ -52,6 +48,8 @@ I find a very interesting website
 
 ### Video retrieval
 
-1. Miech, Antoine, Ivan Laptev, and Josef Sivic. "Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." arXiv preprint arXiv:1804.02516 (2018).[[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
+- Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." [[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
+  - Miech, Antoine, Ivan Laptev, and Josef Sivic. *arXiv preprint arXiv:1804.02516 2018*
+  - Summary: combine multi-modality information, calculate similarities and weight different similarities
 
 
