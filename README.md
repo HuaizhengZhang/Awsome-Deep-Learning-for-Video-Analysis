@@ -39,8 +39,7 @@ I find a very interesting website
 
 - Ambient Sound Provides Supervision for Visual Learning [[Paper]](http://www.eccv2016.org/files/posters/O-1B-01.pdf) 
   - Owens, Andrew, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. *ECCV 2016*
-  - Summary: unsupervised learning, use audio signal to train an image classifier.
-
+  
 ### Video Moment localization
 
 1. Localizing Moments in Video with Natural Language [[Paper]](https://arxiv.org/pdf/1708.01641.pdf)[[GitHub]](https://github.com/LisaAnne/LocalizingMoments)
