@@ -36,8 +36,9 @@ I find a very interesting website
 - Objects that Sound [[Paper]](https://arxiv.org/pdf/1712.06651)
 
 - Learning to Separate Object Sounds by Watching Unlabeled Video [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
+  - Gao, Ruohan, Rogerio Feris, and Kristen Grauman. *arXiv preprint arXiv:1804.01665 (2018)*
 
-- Ambient Sound Provides Supervision for Visual Learning [[Paper]](http://www.eccv2016.org/files/posters/O-1B-01.pdf) 
+- Ambient Sound Provides Supervision for Visual Learning [[Paper]](http://www.eccv2016.org/files/posters/O-1B-01.pdf)
   - Owens, Andrew, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. *ECCV 2016*
   
 ### Video Moment localization
