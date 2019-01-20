@@ -29,13 +29,17 @@ I find a very interesting website
 
 ### Multimodal
 
-1. AENet: Learning Deep Audio Features for Video Analysis [[Paper]](https://arxiv.org/pdf/1701.00599.pdf) [[GitHub]](https://github.com/znaoya/aenet)
+- AENet: Learning Deep Audio Features for Video Analysis [[Paper]](https://arxiv.org/pdf/1701.00599.pdf) [[GitHub]](https://github.com/znaoya/aenet)
 
-2. Look, Listen and Learn [[Paper]](https://arxiv.org/pdf/1705.08168.pdf)
+- Look, Listen and Learn [[Paper]](https://arxiv.org/pdf/1705.08168.pdf)
 
-3. Objects that Sound [[Paper]](https://arxiv.org/pdf/1712.06651)
+- Objects that Sound [[Paper]](https://arxiv.org/pdf/1712.06651)
 
-4. Learning to Separate Object Sounds by Watching Unlabeled Video [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
+- Learning to Separate Object Sounds by Watching Unlabeled Video [[Paper]](https://arxiv.org/pdf/1804.01665.pdf)
+
+- Ambient Sound Provides Supervision for Visual Learning [[Paper]](http://www.eccv2016.org/files/posters/O-1B-01.pdf) 
+  - Owens, Andrew, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. *ECCV 2016*
+  - Summary: unsupervised learning, use audio signal to train an image classifier.
 
 ### Video Moment localization
 
