@@ -52,4 +52,9 @@ I find a very interesting website
   - Miech, Antoine, Ivan Laptev, and Josef Sivic. *arXiv preprint arXiv:1804.02516 2018*
   - Summary: combine multi-modality information, calculate similarities and weight different similarities
 
+- A dataset for movie description. [[Paper]](https://arxiv.org/pdf/1501.02530.pdf)
+  - Rohrbach, Anna, Marcus Rohrbach, Niket Tandon, and Bernt Schiele. *CVPR 2015*
+  - Summary: dataset paper
+
+
 
