@@ -18,15 +18,15 @@ I find a very interesting website
 
 ### Action recognition (Spatiotemporal Features)
 
-1. Deep Learning for Video Classification and Captioning [[Paper]](https://arxiv.org/pdf/1609.06782.pdf)
+- Deep Learning for Video Classification and Captioning [[Paper]](https://arxiv.org/pdf/1609.06782.pdf)
 
-2. Large-scale Video Classification with Convolutional Neural Networks [[Paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/42455.pdf)
+- Large-scale Video Classification with Convolutional Neural Networks [[Paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/42455.pdf)
 
-3. Learning Spatiotemporal Features with 3D Convolutional Networks [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
+- Learning Spatiotemporal Features with 3D Convolutional Networks [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
 
-4. Two-Stream Convolutional Networks for Action Recognition in Videos [[Paper]](https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
+- Two-Stream Convolutional Networks for Action Recognition in Videos [[Paper]](https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 
-5. Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
+- Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
 
 
 ### Multimodal
@@ -46,7 +46,7 @@ I find a very interesting website
   
 ### Video Moment localization
 
-1. Localizing Moments in Video with Natural Language [[Paper]](https://arxiv.org/pdf/1708.01641.pdf)[[GitHub]](https://github.com/LisaAnne/LocalizingMoments)
+- Localizing Moments in Video with Natural Language [[Paper]](https://arxiv.org/pdf/1708.01641.pdf)[[GitHub]](https://github.com/LisaAnne/LocalizingMoments)
 
 ### Video retrieval
 
