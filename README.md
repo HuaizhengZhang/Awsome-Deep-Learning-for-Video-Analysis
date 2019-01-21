@@ -12,6 +12,8 @@ I find a very interesting website
 
 #### Sortable and searchable compilation of video dataset [[Video Dataset Overview]](https://www.di.ens.fr/~miech/datasetviz/)
 
+- AVA dataset: AVA is a project that provides audiovisual annotations of video for improving our understanding of human activity. [[Project]](https://research.google.com/ava/index.html)
+
 ## Paper:
 
 ### Action recognition (Spatiotemporal Features)
