@@ -14,7 +14,7 @@ I find a very interesting website
 
 - AVA dataset: AVA is a project that provides audiovisual annotations of video for improving our understanding of human activity. [[Project]](https://research.google.com/ava/index.html)
 
-- PyVideoResearch: A repositsory of common methods, datasets, and tasks for video research [[GitHub]](https://github.com/gsig/PyVideoResearch
+- PyVideoResearch: A repositsory of common methods, datasets, and tasks for video research [[GitHub]](https://github.com/gsig/PyVideoResearch)
 
 ## Paper:
 
