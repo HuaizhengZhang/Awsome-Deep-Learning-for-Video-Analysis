@@ -53,8 +53,12 @@ I find a very interesting website
 ### Video retrieval
 
 - Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." [[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
-  - Miech, Antoine, Ivan Laptev, and Josef Sivic. *arXiv preprint arXiv:1804.02516 2018*
+  - Miech, Antoine, Ivan Laptev, and Josef Sivic. *ECCV 2018*
   - Summary: combine multi-modality information, calculate similarities and weight different similarities
+  
+- Cross-Modal and Hierarchical Modeling of Video and Text [[Paper]](https://arxiv.org/pdf/1810.07212.pdf)
+  - B. Zhang * , H. Hu * , F. Sha *ECCV 2018*
+  - Summary: learning the intrinsic hierarchical structures of both videos and texts. (Make video and text closer, make videos closer and make text closer)
 
 - A dataset for movie description. [[Paper]](https://arxiv.org/pdf/1501.02530.pdf)
   - Rohrbach, Anna, Marcus Rohrbach, Niket Tandon, and Bernt Schiele. *CVPR 2015*
