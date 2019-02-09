@@ -33,7 +33,7 @@ I find a very interesting website
 - Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
 
 
-### Multimodal
+### Multimodal For video Analysis
 
 - AENet: Learning Deep Audio Features for Video Analysis [[Paper]](https://arxiv.org/pdf/1701.00599.pdf) [[GitHub]](https://github.com/znaoya/aenet)
 
@@ -48,11 +48,11 @@ I find a very interesting website
   - Owens, Andrew, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. *ECCV 2016*
   - Summary: unsupervised learning
   
-### Video Moment localization
+### Video Moment Localization
 
 - Localizing Moments in Video with Natural Language [[Paper]](https://arxiv.org/pdf/1708.01641.pdf)[[GitHub]](https://github.com/LisaAnne/LocalizingMoments)
 
-### Video retrieval
+### Video Retrieval
 
 - Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." [[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
   - Miech, Antoine, Ivan Laptev, and Josef Sivic. *ECCV 2018*
@@ -66,5 +66,6 @@ I find a very interesting website
   - Rohrbach, Anna, Marcus Rohrbach, Niket Tandon, and Bernt Schiele. *CVPR 2015*
   - Summary: dataset paper
 
+### Video Advertisement (Also include some image advertisement paper)
 
 
