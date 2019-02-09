@@ -16,6 +16,8 @@ I find a very interesting website
 
 - PyVideoResearch: A repositsory of common methods, datasets, and tasks for video research [[GitHub]](https://github.com/gsig/PyVideoResearch)
 
+- How2 Dataset: How2: A Large-scale Dataset for Multimodal Language Understanding [[Paper]](https://arxiv.org/pdf/1811.00347.pdf) [[GitHub]](https://github.com/srvk/how2-dataset)
+
 ## Paper:
 
 ### Action recognition (Spatiotemporal Features)
