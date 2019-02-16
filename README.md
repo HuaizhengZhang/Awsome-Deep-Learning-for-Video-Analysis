@@ -75,5 +75,9 @@ I find a very interesting website
 - Multimodal Representation of Advertisements Using Segment-level Autoencoders [[Paper]](https://sail.usc.edu/publications/files/p418-somandepalli.pdf) [[GitHub]](https://github.com/usc-sail/mica-multimodal-ads)
   - Somandepalli, Krishna, Victor Martinez, Naveen Kumar, and Shrikanth Narayanan. *ICMI 2018*
   - Summary: video and audio features to understand whether video is funny or not.
+  
+- Story Understanding in Video Advertisements. [[Paper]](http://people.cs.pitt.edu/~kovashka/ye_buettner_kovashka_bmvc2018.pdf) [[GitHub]](https://github.com/yekeren/Story-Video_ads_understanding)
+  - Keren Ye, Kyle Buettner, Adriana Kovashka *BMVC 2018*
+  - Summary: Combine multiple features including climax, audio and so on to analyze video ads.
 
 
