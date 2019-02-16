@@ -72,6 +72,8 @@ I find a very interesting website
   - Hussain, Zaeem, Mingda Zhang, Xiaozhong Zhang, Keren Ye, Christopher Thomas, Zuha Agha, Nathan Ong, and Adriana Kovashka. *CVPR 2017*
   - Summary: Image and video advertisement datasets and baselines.
   
-- 
+- Multimodal Representation of Advertisements Using Segment-level Autoencoders [[Paper]](https://sail.usc.edu/publications/files/p418-somandepalli.pdf) [[GitHub]](https://github.com/usc-sail/mica-multimodal-ads)
+  - Somandepalli, Krishna, Victor Martinez, Naveen Kumar, and Shrikanth Narayanan. *ICMI 2018*
+  - Summary: video and audio features to understand whether video is funny or not.
 
 
