@@ -68,7 +68,7 @@ I find a very interesting website
 
 ### Video Advertisement (Also include some image advertisement paper)
 
-- Automatic understanding of image and video advertisements In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 1705-1715. 2017.
+- Automatic understanding of image and video advertisements
   - Hussain, Zaeem, Mingda Zhang, Xiaozhong Zhang, Keren Ye, Christopher Thomas, Zuha Agha, Nathan Ong, and Adriana Kovashka. *CVPR 2017*
   - Summary: Image and video advertisement datasets and baselines.
 
