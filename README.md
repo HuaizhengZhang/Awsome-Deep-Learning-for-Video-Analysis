@@ -68,8 +68,10 @@ I find a very interesting website
 
 ### Video Advertisement (Also include some image advertisement paper)
 
-- Automatic understanding of image and video advertisements
+- Automatic understanding of image and video advertisements [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hussain_Automatic_Understanding_of_CVPR_2017_paper.pdf) [[Project]](http://people.cs.pitt.edu/~kovashka/ads/)
   - Hussain, Zaeem, Mingda Zhang, Xiaozhong Zhang, Keren Ye, Christopher Thomas, Zuha Agha, Nathan Ong, and Adriana Kovashka. *CVPR 2017*
   - Summary: Image and video advertisement datasets and baselines.
+  
+- 
 
 
