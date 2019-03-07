@@ -83,5 +83,9 @@ I find a very interesting website
 - Story Understanding in Video Advertisements. [[Paper]](http://people.cs.pitt.edu/~kovashka/ye_buettner_kovashka_bmvc2018.pdf) [[GitHub]](https://github.com/yekeren/Story-Video_ads_understanding)
   - Keren Ye, Kyle Buettner, Adriana Kovashka *BMVC 2018*
   - Summary: Combine multiple features including climax, audio and so on to analyze video ads.
+  
+- ADVISE: Symbolism and External Knowledge for Decoding Advertisements. [[Paper]](http://people.cs.pitt.edu/~kovashka/ye_kovashka_advise_eccv2018.pdf) [[GitHub]](https://github.com/yekeren/ADVISE)
+  - Keren Ye and Adriana Kovashka. (*ECCV2018*)
+  - Summary: action-reason statement for advertisement. Many pre-trained models are as prior knowledge. SSD, DenseCAP and GloVe.
 
 
