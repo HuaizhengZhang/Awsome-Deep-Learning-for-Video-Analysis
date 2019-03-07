@@ -66,6 +66,10 @@ I find a very interesting website
   - Rohrbach, Anna, Marcus Rohrbach, Niket Tandon, and Bernt Schiele. *CVPR 2015*
   - Summary: dataset paper
 
+- Web-scale Multimedia Search for Internet Video Content. [[Thesis]](http://www.lujiang.info/resources/Thesis.pdf)
+  - Lu Jiang
+  - Summary: amazing thesis
+  
 ### Video Advertisement (Also include some image advertisement paper)
 
 - Automatic understanding of image and video advertisements [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hussain_Automatic_Understanding_of_CVPR_2017_paper.pdf) [[Project]](http://people.cs.pitt.edu/~kovashka/ads/)
