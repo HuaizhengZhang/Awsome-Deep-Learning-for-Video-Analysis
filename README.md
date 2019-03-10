@@ -20,7 +20,7 @@ I find a very interesting website
 
 ## Paper:
 
-### Action recognition (Spatiotemporal Features)
+### Action recognition (Spatiotemporal Features, Video Classification)
 
 - Deep Learning for Video Classification and Captioning [[Paper]](https://arxiv.org/pdf/1609.06782.pdf)
 
@@ -32,6 +32,9 @@ I find a very interesting website
 
 - Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
 
+- Non-local neural networks [Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) [GitHub](https://github.com/facebookresearch/video-nonlocal-net)
+  - Wang, Xiaolong, Ross Girshick, Abhinav Gupta, and Kaiming He. (*CVPR 2018*)
+  - Summary: 
 
 ### Multimodal For video Analysis
 
