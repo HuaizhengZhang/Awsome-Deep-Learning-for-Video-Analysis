@@ -32,6 +32,10 @@ I find a very interesting website
   - Wang, Xiaolong, Ross Girshick, Abhinav Gupta, and Kaiming He. (*CVPR 2018*)
   - Summary: 
 
+- Learning Correspondence from the Cycle-consistency of Time [[Paper]](https://arxiv.org/pdf/1903.07593.pdf) [[GitHub]](https://github.com/xiaolonw/TimeCycle)
+  - Xiaolong Wang and Allan Jabri and Alexei A. Efros (*CVPR2019*)
+  - Summary: 
+
 ### Multimodal For video Analysis
 
 - AENet: Learning Deep Audio Features for Video Analysis [[Paper]](https://arxiv.org/pdf/1701.00599.pdf) [[GitHub]](https://github.com/znaoya/aenet)
