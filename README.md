@@ -8,7 +8,7 @@ This repo contains some video analysis research. I summarize some papers and cat
 - [Multimodal for Video Analysis](#multimodal-for-video-analysis)
 - [Video Moment Localization](#video-moment-localization)
 - [Video Retrieval](#video-retrieval)
-- [Video Advertisement](#video-advertisement)
+- [Video Advertisement](#video-advertisement-also-include-some-image-advertisement-paper)
 - [Visual Commonsense Reasoning](#visual-commonsense-reasoning)
 
 ## Dataset:
