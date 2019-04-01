@@ -14,6 +14,7 @@ This repo contains some video analysis research. I summarize some papers and cat
 - [Video Retrieval](#video-retrieval)
 - [Video Advertisement](#video-advertisement-also-include-some-image-advertisement-paper)
 - [Visual Commonsense Reasoning](#visual-commonsense-reasoning)
+- [Video Highlight](#video-highlight-prediction)
 
 ## Dataset:
 
@@ -110,3 +111,7 @@ I find a very interesting website
   - Rowan Zellers, Yonatan Bisk, Ali Farhadi, Yejin Choi (*CVPR2019*)
   - Summary: First dataset paper. Use BERT and fastrcnn as the baseline
 
+### Video Highlight Prediction
+
+- Video highlight prediction using audience chat reactions
+  - Fu, Cheng-Yang, Joon Lee, Mohit Bansal, and Alexander C. Berg. (*EMNLP 2017*)
