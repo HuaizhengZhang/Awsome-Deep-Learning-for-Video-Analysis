@@ -29,7 +29,7 @@ I find a very interesting website
 ## Paper:
 
 ### Action recognition (Spatiotemporal Features, Video Classification)
-
+- Long-Term Feature Banks for Detailed Video Understanding (*CVPR2019*) [[Paper]](https://arxiv.org/pdf/1812.05038.pdf)[[GitHub]](https://github.com/facebookresearch/video-long-term-feature-banks)
 - Deep Learning for Video Classification and Captioning [[Paper]](https://arxiv.org/pdf/1609.06782.pdf)
 - Large-scale Video Classification with Convolutional Neural Networks [[Paper]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/42455.pdf)
 - Learning Spatiotemporal Features with 3D Convolutional Networks [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
