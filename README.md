@@ -44,6 +44,7 @@ I find a very interesting website
 - Learning Correspondence from the Cycle-consistency of Time [[Paper]](https://arxiv.org/pdf/1903.07593.pdf) [[GitHub]](https://github.com/xiaolonw/TimeCycle)
   - Xiaolong Wang and Allan Jabri and Alexei A. Efros (*CVPR2019*)
   - Summary: 
+- 3D ConvNets in Pytorch [[GitHub]](https://github.com/Tushar-N/pytorch-resnet3d)
 
 ### Multimodal For video Analysis
 
