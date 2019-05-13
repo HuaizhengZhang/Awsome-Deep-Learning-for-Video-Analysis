@@ -15,6 +15,7 @@ This repo contains some video analysis research. I summarize some papers and cat
 - [Video Advertisement](#video-advertisement-also-include-some-image-advertisement-paper)
 - [Visual Commonsense Reasoning](#visual-commonsense-reasoning)
 - [Video Highlight](#video-highlight-prediction)
+- [Object Tracking](#object-tracking)
 
 ## Dataset:
 
@@ -102,3 +103,9 @@ I find a very interesting website
 
 - Video highlight prediction using audience chat reactions
   - Fu, Cheng-Yang, Joon Lee, Mohit Bansal, and Alexander C. Berg. (*EMNLP 2017*)
+  
+### Object Tracking
+
+- SenseTime's research platform for single object tracking research, implementing algorithms like SiamRPN and SiamMask. [[GitHub]](https://github.com/STVIR/pysot)
+  
+  
