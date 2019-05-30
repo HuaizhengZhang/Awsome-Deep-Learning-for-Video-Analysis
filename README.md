@@ -29,6 +29,9 @@ I find a very interesting website
 - Moments in Time Dataset A large-scale dataset for recognizing and understanding action in videos [[Dataset]](https://github.com/metalbubble/moments_models) [[Pretrained Model]](http://moments.csail.mit.edu/)
 - Pretrained image and video models for Pytorch [[GitHub]](https://github.com/alexandonian/pretorched-x)
 
+## Tool
+
+- This document describes the collection of utilities created for Detection and Classification of Acoustic Scenes and Events (DCASE).  [[GitHub]](https://dcase-repo.github.io/dcase_util/index.html)
 
 ## Paper:
 
