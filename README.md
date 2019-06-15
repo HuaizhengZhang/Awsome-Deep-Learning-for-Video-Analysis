@@ -16,6 +16,7 @@ This repo contains some video analysis research. I summarize some papers and cat
 - [Visual Commonsense Reasoning](#visual-commonsense-reasoning)
 - [Video Highlight](#video-highlight-prediction)
 - [Object Tracking](#object-tracking)
+- [Audio-Visual Dialog](#audio-visual-dialog)
 
 ## Dataset:
 
@@ -110,5 +111,12 @@ I find a very interesting website
 ### Object Tracking
 
 - SenseTime's research platform for single object tracking research, implementing algorithms like SiamRPN and SiamMask. [[GitHub]](https://github.com/STVIR/pysot)
+
+### Audio-Visual Dialog
+
+- Audio-Visual Scene-Aware Dialog [[GitHub]](https://github.com/batra-mlp-lab/avsd)
+  - Alamri, Huda, Vincent Cartillier, Abhishek Das, Jue Wang, Stefan Lee, Peter Anderson, Irfan Essa et al.
+  - arXiv preprint arXiv:1901.09107 (2019) 
+
   
   
