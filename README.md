@@ -52,7 +52,7 @@ I find a very interesting website
 - 3D ConvNets in Pytorch [[GitHub]](https://github.com/Tushar-N/pytorch-resnet3d)
 
 ### Multimodal For video Analysis
-
+- Awsome list for multimodal learning [[GitHub]](https://github.com/pliang279/multimodal-ml-reading-list)
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[Paper]](https://arxiv.org/abs/1904.01766)
 - AENet: Learning Deep Audio Features for Video Analysis [[Paper]](https://arxiv.org/pdf/1701.00599.pdf) [[GitHub]](https://github.com/znaoya/aenet)
 - Look, Listen and Learn [[Paper]](https://arxiv.org/pdf/1705.08168.pdf)
