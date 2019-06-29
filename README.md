@@ -29,6 +29,7 @@ I find a very interesting website
 - How2 Dataset: How2: A Large-scale Dataset for Multimodal Language Understanding [[Paper]](https://arxiv.org/pdf/1811.00347.pdf) [[GitHub]](https://github.com/srvk/how2-dataset)
 - Moments in Time Dataset A large-scale dataset for recognizing and understanding action in videos [[Dataset]](https://github.com/metalbubble/moments_models) [[Pretrained Model]](http://moments.csail.mit.edu/)
 - Pretrained image and video models for Pytorch [[GitHub]](https://github.com/alexandonian/pretorched-x)
+- Youtube-8M, new segment task! [[Blog]](https://ai.googleblog.com/2019/06/announcing-youtube-8m-segments-dataset.html)
 
 ## Tool
 
