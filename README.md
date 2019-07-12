@@ -4,11 +4,12 @@
 
 # Awesome Deep Learning for Video Analysis
 
-This repo contains some video analysis research. I summarize some papers and categorize them by myself. You are kindly invited to pull requests!
+This repo contains some video analysis, especiall multimodal learning for video analysis, research. I summarize some papers and categorize them by myself. You are kindly invited to pull requests!
+
+I pay more attention on multimodal learning related work and some research like action recognition is not the main scope of this repo.
 
 ## Contents
 - [Dataset](#dataset)
-- [Action Recognition](#action-recognition-spatiotemporal-features-video-classification)
 - [Multimodal for Video Analysis](#multimodal-for-video-analysis)
 - [Video Moment Localization](#video-moment-localization)
 - [Video Retrieval](#video-retrieval)
@@ -17,6 +18,7 @@ This repo contains some video analysis research. I summarize some papers and cat
 - [Video Highlight](#video-highlight-prediction)
 - [Object Tracking](#object-tracking)
 - [Audio-Visual Dialog](#audio-visual-dialog)
+- [Action Recognition](#action-recognition-spatiotemporal-features-video-classification)
 
 ## Dataset:
 
