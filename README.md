@@ -50,7 +50,7 @@ I find a very interesting website
 - Learning Spatiotemporal Features with 3D Convolutional Networks [[Paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[Paper]](https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 - Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)
-- Non-local neural networks [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) [GitHub](https://github.com/facebookresearch/video-nonlocal-net)
+- Non-local neural networks [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) [[GitHub]](https://github.com/facebookresearch/video-nonlocal-net)
   - Wang, Xiaolong, Ross Girshick, Abhinav Gupta, and Kaiming He. (*CVPR 2018*)
   - Summary: 
 - Learning Correspondence from the Cycle-consistency of Time [[Paper]](https://arxiv.org/pdf/1903.07593.pdf) [[GitHub]](https://github.com/xiaolonw/TimeCycle)
