@@ -9,6 +9,7 @@ This repo contains some video analysis, especiall multimodal learning for video 
 I pay more attention on multimodal learning related work and some research like action recognition is not the main scope of this repo.
 
 ## Contents
+### Video
 - [Dataset](#dataset)
 - [Multimodal for Video Analysis](#multimodal-for-video-analysis)
 - [Video Moment Localization](#video-moment-localization)
@@ -19,6 +20,9 @@ I pay more attention on multimodal learning related work and some research like 
 - [Object Tracking](#object-tracking)
 - [Audio-Visual Dialog](#audio-visual-dialog)
 - [Action Recognition](#action-recognition-spatiotemporal-features-video-classification)
+
+### Multimodal
+- [Multimodal](#multimodal)
 
 ## Dataset:
 
@@ -122,4 +126,9 @@ I find a very interesting website
   - arXiv preprint arXiv:1901.09107 (2019) 
 
   
+### Multimodal
+
+### 2019
+- OmniNet: A unified architecture for multi-modal multi-task learning" [[Paper]](https://github.com/subho406/OmniNet) [[GitHub]](https://github.com/subho406/OmniNet)
+  - Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
   
