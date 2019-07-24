@@ -76,6 +76,8 @@ I find a very interesting website
 
 ### Video Retrieval
 
+- HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips [[Project Website]](https://www.di.ens.fr/willow/research/howto100m/)
+  - Miech, Antoine, et al. (arXiv:1906.03327 (2019))
 - Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." [[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
   - Miech, Antoine, Ivan Laptev, and Josef Sivic. *ECCV 2018*
   - Summary: combine multi-modality information, calculate similarities and weight different similarities
