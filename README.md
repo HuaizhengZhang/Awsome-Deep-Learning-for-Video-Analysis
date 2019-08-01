@@ -78,7 +78,7 @@ I find a very interesting website
 - Localizing Moments in Video with Natural Language [[Paper]](https://arxiv.org/pdf/1708.01641.pdf)[[GitHub]](https://github.com/LisaAnne/LocalizingMoments)
 
 ### Video Retrieval
-
+- Use What You Have: Video retrieval using representations from collaborative experts [[GitHub]](https://github.com/albanie/collaborative-experts)
 - HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips [[Project Website]](https://www.di.ens.fr/willow/research/howto100m/)
   - Miech, Antoine, et al. (arXiv:1906.03327 (2019))
 - Learning a Text-Video Embedding from Incomplete and Heterogeneous Data." [[Paper]](https://arxiv.org/pdf/1804.02516.pdf)[[GitHub]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
