@@ -11,6 +11,7 @@ I pay more attention on multimodal learning related work and some research like 
 ## Contents
 
 ### Video
+- [Tutorial](#tutorial)
 - [Dataset](#dataset)
 - [Tool](#tool)
 - [Multimodal for Video Analysis](#multimodal-for-video-analysis)
@@ -23,14 +24,15 @@ I pay more attention on multimodal learning related work and some research like 
 - [Audio-Visual Dialog](#audio-visual-dialog)
 - [Action Recognition](#action-recognition-spatiotemporal-features-video-classification)
 
-### Multimodal
-- [Tutorial](#tutorial)
-- [2019](#multimodal-2019)
+
+
 
 
 ## Tutorial
 
-CVPR2019:Multi-Modal Learning from Videos [[Project Page]](https://sites.google.com/view/mmlv/home)
+- CVPR2019:Multi-Modal Learning from Videos [[Project Page]](https://sites.google.com/view/mmlv/home)
+
+- awesome-multimodal-ml: Reading list for research topics in multimodal machine learning [[GitHub]](https://github.com/pliang279/awesome-multimodal-ml)
 
 ## Dataset:
 
@@ -137,8 +139,4 @@ I find a very interesting website
   - Alamri, Huda, Vincent Cartillier, Abhishek Das, Jue Wang, Stefan Lee, Peter Anderson, Irfan Essa et al.
   - arXiv preprint arXiv:1901.09107 (2019) 
 
-  
-### Multimodal-2019
-- OmniNet: A unified architecture for multi-modal multi-task learning" [[Paper]](https://github.com/subho406/OmniNet) [[GitHub]](https://github.com/subho406/OmniNet)
-  - Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain
-  
+
