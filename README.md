@@ -81,6 +81,7 @@ I find a very interesting website
 - Ambient Sound Provides Supervision for Visual Learning [[Paper]](http://www.eccv2016.org/files/posters/O-1B-01.pdf)
   - Owens, Andrew, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. *ECCV 2016*
   - Summary: unsupervised learning
+- Learning Cross-Modal Temporal Representations from Unlabeled Videos [[Google Blog]](https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html?m=1)
 
 ### Video Moment Localization
 
