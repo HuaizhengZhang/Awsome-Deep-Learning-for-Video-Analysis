@@ -55,6 +55,8 @@ I find a very interesting website
 
 - Video Platform for Action Recognition and Object Detection in Pytorch [[GitHub]](https://github.com/MichiganCOG/ViP)
 
+- FAIR Self-Supervised Learning Integrated Multi-modal Environment (SSLIME) [[GitHub]](https://github.com/facebookresearch/fair-sslime)
+
 ## Paper:
 
 ### Action recognition (Spatiotemporal Features, Video Classification)
