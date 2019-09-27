@@ -53,6 +53,8 @@ I find a very interesting website
 
 - Easy to use video deep features extractor [[GitHub]](https://github.com/antoine77340/video_feature_extractor)
 
+- Video Platform for Action Recognition and Object Detection in Pytorch [[GitHub]](https://github.com/MichiganCOG/ViP)
+
 ## Paper:
 
 ### Action recognition (Spatiotemporal Features, Video Classification)
