@@ -50,12 +50,11 @@ I find a very interesting website
 
 ## Tool
 
+- facebookresearch/ClassyVision: An end-to-end PyTorch framework for image and video classification [[GitHub]](https://github.com/facebookresearch/ClassyVision)
+- MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines [[GitHub]](https://github.com/google/mediapipe)
 - This document describes the collection of utilities created for Detection and Classification of Acoustic Scenes and Events (DCASE).  [[GitHub]](https://dcase-repo.github.io/dcase_util/index.html)
-
 - Easy to use video deep features extractor [[GitHub]](https://github.com/antoine77340/video_feature_extractor)
-
 - Video Platform for Action Recognition and Object Detection in Pytorch [[GitHub]](https://github.com/MichiganCOG/ViP)
-
 - FAIR Self-Supervised Learning Integrated Multi-modal Environment (SSLIME) [[GitHub]](https://github.com/facebookresearch/fair-sslime)
 
 ## Paper:
