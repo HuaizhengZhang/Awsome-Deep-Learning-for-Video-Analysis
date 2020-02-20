@@ -61,6 +61,7 @@ I find a very interesting website
 
 ### Video Classification (Spatiotemporal Features)
 
+- Learnable pooling with Context Gating for video classification [[Paper]](https://arxiv.org/pdf/1706.06905.pdf) [[GitHub]](https://github.com/antoine77340/LOUPE)
 - TSM: Temporal Shift Module for Efficient Video Understanding [[Paper]](https://arxiv.org/pdf/1811.08383.pdf) [[GitHub]](https://github.com/mit-han-lab/temporal-shift-module)
 - Long-Term Feature Banks for Detailed Video Understanding (*CVPR2019*) [[Paper]](https://arxiv.org/pdf/1812.05038.pdf)[[GitHub]](https://github.com/facebookresearch/video-long-term-feature-banks)
 - Deep Learning for Video Classification and Captioning [[Paper]](https://arxiv.org/pdf/1609.06782.pdf)
