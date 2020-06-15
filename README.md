@@ -31,7 +31,7 @@ I pay more attention on multimodal learning related work and some research like 
 
 ## Tutorial
 
-- Audio-visual paper list(https://github.com/krantiparida/awesome-audio-visual)
+- Audio-visual paper list [[GitHub]](https://github.com/krantiparida/awesome-audio-visual)
 - CVPR2019:Multi-Modal Learning from Videos [[Project Page]](https://sites.google.com/view/mmlv/home)
 - awesome-multimodal-ml: Reading list for research topics in multimodal machine learning [[GitHub]](https://github.com/pliang279/awesome-multimodal-ml)
 
