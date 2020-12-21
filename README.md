@@ -23,10 +23,6 @@ I pay more attention on multimodal learning related work and some research like 
 - [Video Highlight](#video-highlight-prediction)
 - [Object Tracking](#object-tracking)
 - [Audio-Visual Dialog](#audio-visual-dialog)
-- [Action Recognition](#action-recognition-spatiotemporal-features-video-classification)
-
-
-
 
 
 ## Tutorial
@@ -34,6 +30,7 @@ I pay more attention on multimodal learning related work and some research like 
 - Audio-visual paper list [[GitHub]](https://github.com/krantiparida/awesome-audio-visual)
 - CVPR2019:Multi-Modal Learning from Videos [[Project Page]](https://sites.google.com/view/mmlv/home)
 - awesome-multimodal-ml: Reading list for research topics in multimodal machine learning [[GitHub]](https://github.com/pliang279/awesome-multimodal-ml)
+- A Comprehensive Study of Deep Video Action Recognition [[Paper]](https://arxiv.org/pdf/2012.06567.pdf)
 
 ## Dataset:
 
