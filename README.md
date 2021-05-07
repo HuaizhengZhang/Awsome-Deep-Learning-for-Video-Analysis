@@ -35,9 +35,7 @@ I pay more attention on multimodal learning related work and some research like 
 ## Dataset:
 
 - Awesome Video dataset [[GitHub]](https://github.com/xiaobai1217/Awesome-Video-Datasets)
-
-#### Sortable and searchable compilation of video dataset [[Video Dataset Overview]](https://www.di.ens.fr/~miech/datasetviz/)
-
+- Sortable and searchable compilation of video dataset [[Video Dataset Overview]](https://www.di.ens.fr/~miech/datasetviz/)
 - AVA dataset: AVA is a project that provides audiovisual annotations of video for improving our understanding of human activity. [[Project]](https://research.google.com/ava/index.html)
 - PyVideoResearch: A repositsory of common methods, datasets, and tasks for video research [[GitHub]](https://github.com/gsig/PyVideoResearch)
 - How2 Dataset: How2: A Large-scale Dataset for Multimodal Language Understanding [[Paper]](https://arxiv.org/pdf/1811.00347.pdf) [[GitHub]](https://github.com/srvk/how2-dataset)
