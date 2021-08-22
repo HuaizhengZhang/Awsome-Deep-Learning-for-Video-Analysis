@@ -45,6 +45,7 @@ I pay more attention on multimodal learning related work and some research like 
 
 ## Tool
 
+- AutoVideo: An Automated Video Action Recognition System [[GitHub]](https://github.com/datamllab/autovideo)
 - X-Temporal is an open source video understanding codebase from Sensetime X-Lab group that provides state-of-the-art video classification models [[GitHub]](https://github.com/Sense-X/X-Temporal)
 - facebookresearch/ClassyVision: An end-to-end PyTorch framework for image and video classification [[GitHub]](https://github.com/facebookresearch/ClassyVision)
 - MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines [[GitHub]](https://github.com/google/mediapipe)
