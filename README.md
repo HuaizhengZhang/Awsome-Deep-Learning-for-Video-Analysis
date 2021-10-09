@@ -53,6 +53,7 @@ I pay more attention on multimodal learning related work and some research like 
 - Easy to use video deep features extractor [[GitHub]](https://github.com/antoine77340/video_feature_extractor)
 - Video Platform for Action Recognition and Object Detection in Pytorch [[GitHub]](https://github.com/MichiganCOG/ViP)
 - FAIR Self-Supervised Learning Integrated Multi-modal Environment (SSLIME) [[GitHub]](https://github.com/facebookresearch/fair-sslime)
+- VideoFlow: Python Framework for Development of Complex Video Analysis Applications [[GitHub]](https://github.com/videoflow/videoflow)
 
 ## Paper:
 
