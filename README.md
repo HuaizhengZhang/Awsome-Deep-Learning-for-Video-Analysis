@@ -56,6 +56,9 @@ I pay more attention on multimodal learning related work and some research like 
 - FAIR Self-Supervised Learning Integrated Multi-modal Environment (SSLIME) [[GitHub]](https://github.com/facebookresearch/fair-sslime)
 - VideoFlow: Python Framework for Development of Complex Video Analysis Applications [[GitHub]](https://github.com/videoflow/videoflow)
 
+## Competition
+- NFL Health and Safety Helmet Assignment [[Kaggle]](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment/data)
+
 ## Paper:
 
 ### Video Classification (Spatiotemporal Features)
