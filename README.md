@@ -79,6 +79,9 @@ I pay more attention on multimodal learning related work and some research like 
   - Summary: 
 - 3D ConvNets in Pytorch [[GitHub]](https://github.com/Tushar-N/pytorch-resnet3d)
 
+- AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation (*NeurIPS 2024*) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [[GitHub]](https://github.com/MCG-NJU/AWT)
+  - Summary: VLM adaptation via augmentation, entropy weighting and optimal transport; its video setup uses Open-VCLIP-style neighbor-frame attention and Kinetics-400 fine-tuning for zero-shot action recognition.
+
 ### Multimodal For video Analysis
 - Awsome list for multimodal learning [[GitHub]](https://github.com/pliang279/multimodal-ml-reading-list)
 - VideoBERT: A Joint Model for Video and Language Representation Learning [[Paper]](https://arxiv.org/abs/1904.01766)
@@ -92,9 +95,25 @@ I pay more attention on multimodal learning related work and some research like 
   - Summary: unsupervised learning
 - Learning Cross-Modal Temporal Representations from Unlabeled Videos [[Google Blog]](https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html?m=1)
 
+- VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding (*arXiv 2026*) [[Paper]](https://arxiv.org/abs/2607.14935) [[GitHub]](https://github.com/MCG-NJU/VideoChat3)
+  - Summary: An efficient, fully open 4B video MLLM for general, long-form and streaming understanding.
+- OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction (*arXiv 2026*) [[Paper]](https://arxiv.org/abs/2610.01762) [[GitHub]](https://github.com/MCG-NJU/OneStreamer)
+  - Summary: Streaming interaction with proactively generated, time-aligned caption memory and learned response timing.
+- JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence (*arXiv 2026*) [[Paper]](https://arxiv.org/abs/2606.14777) [[GitHub]](https://github.com/jd-opensource/JoyAI-VL-Interaction)
+  - Summary: Vision-first real-time video interaction with silence, response and delegation decisions.
+- Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning (*ICML 2026*) [[Paper]](https://proceedings.mlr.press/v306/zeng26y.html) [[GitHub]](https://github.com/MCG-NJU/Video-o3)
+  - Summary: Interleaved reasoning and VideoCrop tool calls for seeking evidence in long-video QA.
+- MJev-Spatial: System One Spatial Intelligence via Native Attention Matching (*arXiv 2026*) [[Paper]](https://arxiv.org/abs/2610.22276) [[GitHub]](https://github.com/Fr0zenCrane/MJev-Spatial)
+  - Summary: Video-spatial QA over ordered images/frames, evaluated on video-derived VSI-Bench; its supervised fine-tuned native Q/K readout matches answer candidates and returns scores.
+
 ### Video Moment Localization
 
 - Localizing Moments in Video with Natural Language [[Paper]](https://arxiv.org/pdf/1708.01641.pdf)[[GitHub]](https://github.com/LisaAnne/LocalizingMoments)
+
+- TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs (*arXiv 2026*) [[Paper]](https://arxiv.org/abs/2607.17423) [[GitHub]](https://github.com/MCG-NJU/TimeLens2)
+  - Summary: Generalist language-conditioned grounding that predicts one or more temporal evidence intervals.
+- VideoJev: System One Model for Video Understanding and Interaction (*arXiv 2026*) [[Paper]](https://arxiv.org/abs/2610.18615) [[GitHub]](https://github.com/MCG-NJU/VideoJev)
+  - Summary: A shared scoring head unifies temporal grounding, multiple-choice video QA and streaming decisions.
 
 ### Video Retrieval
 - Use What You Have: Video retrieval using representations from collaborative experts [[GitHub]](https://github.com/albanie/collaborative-experts)
@@ -112,7 +131,10 @@ I pay more attention on multimodal learning related work and some research like 
 - Web-scale Multimedia Search for Internet Video Content. [[Thesis]](http://www.lujiang.info/resources/Thesis.pdf)
   - Lu Jiang
   - Summary: amazing thesis
-  
+
+- FreeRet: MLLMs as Training-Free Retrievers (*ICML 2026*) [[Paper]](https://proceedings.mlr.press/v306/zhu26ba.html) [[GitHub]](https://github.com/MCG-NJU/FreeRet)
+  - Summary: Training-free MLLM semantic embeddings with prior calibration and reranking; evaluated on five video-retrieval datasets.
+
 ### Video Advertisement (Also include some image advertisement paper)
 
 - Automatic understanding of image and video advertisements [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Hussain_Automatic_Understanding_of_CVPR_2017_paper.pdf) [[Project]](http://people.cs.pitt.edu/~kovashka/ads/)
